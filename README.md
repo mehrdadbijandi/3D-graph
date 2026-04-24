@@ -1,5 +1,5 @@
 ## 3D Graph Demo
-![preview](preview.png)
+![preview](preview.jpg)
 
 
 
